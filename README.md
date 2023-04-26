@@ -7,4 +7,5 @@
 
 ## Requirement
 
-Please re-create the website as the screenshot below
+Please re-create the website as the screenshot below. The images and logo are in the `images` folder
+![](./src/images/Screenshot.png)
